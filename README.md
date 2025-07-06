@@ -38,6 +38,8 @@ Built for learning, testing, and offline image manipulation directly from the co
 
 - OpenCV 4.x
 
+---
+
 ## 🛠️ Build & Run
 
 1. 🧱 Compile:
