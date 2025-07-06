@@ -14,7 +14,7 @@ Built for learning, testing, and offline image manipulation directly from the co
 - 🖌 Grayscale & Gaussian Blur filters
 - 💡 Brightness and contrast adjustments
 - 💾 Save changes to disk
-- 🪟 Live preview with OpenCV GUI windows
+- 🖼️ Live preview with OpenCV GUI windows
 
 ---
 
