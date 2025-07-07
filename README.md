@@ -42,11 +42,11 @@ Built for learning, testing, and offline image manipulation directly from the co
 
 ## 🛠️ Build & Run
 
-1. 🧱 Compile:
+### 🧱 Compile:
           g++ code/image_editor.cpp -o image_editor `pkg-config --cflags --libs opencv4`
-    Adjust opencv4 to opencv if using OpenCV 3.
+Adjust opencv4 to opencv if using OpenCV 3.
 
-2. ▶️ Run:
+### ▶️ Run:
           ./image_editor
 
 ---
