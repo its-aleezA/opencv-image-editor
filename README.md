@@ -66,7 +66,7 @@ Adjust opencv4 to opencv if using OpenCV 3.
 
 ---
 
-## 🪪 License
+## 🔖 License
 
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
